@@ -2,10 +2,12 @@
 <!-- slug: menu-makanan-java -->
 <!-- title: Menu Makanan Java -->
 <!-- description: Simple food menu desktop application built with Java Swing and NetBeans -->
-<!-- image: https://github.com/user-attachments/assets/placeholder-menu-makanan -->
+<!-- image: https://github.com/user-attachments/assets/71d35019-b4d5-4067-b17d-4faa581f2d67 -->
 <!-- tags: java, swing, netbeans, mysql, desktop-app, food-menu -->
 
 # Food Menu Application (Menu Makanan)
+
+<img width="1536" height="1024" alt="menu-makanan-java" src="https://github.com/user-attachments/assets/71d35019-b4d5-4067-b17d-4faa581f2d67" />
 
 A simple food menu management desktop application built with Java Swing using NetBeans IDE. This application allows restaurant staff to manage food menu items, categories, and pricing through an intuitive graphical interface.
 
